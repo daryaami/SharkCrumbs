@@ -1,6 +1,0 @@
-{
-    "VOLUME_THRESHOLD": 2,
-    "VOLUME_WINDOW_SIZE": 20,
-    "TAIL_SIZE": 0.75,
-    "ATR_RATIO": 1
-}
